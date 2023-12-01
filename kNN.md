@@ -15,4 +15,9 @@ Assume response Variable Y, relates to the predictors, X, through some unknown f
 Y = f(x) + ℰ
 ⊽ᵢ = F(xᵢ₁, ..., Xᵢₐ)
 
-inference problems, try to obtain F, our estimate of f vs. prediction problems, 
+inference problems, try to obtain F, our estimate of f vs. prediction problems, try to make predictions as closs to the observed values as possible. 
+
+Sigma Notation
+
+Formula for Sample Mean
+
